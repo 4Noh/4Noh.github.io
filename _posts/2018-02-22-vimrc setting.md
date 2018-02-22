@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: vimrc setting
+tags: [setting]
+---
 vimrc 설정
 ```
 set autoindent
